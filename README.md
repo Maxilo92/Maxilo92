@@ -1,54 +1,55 @@
-# 👋 Hallo, ich bin Maximilian Priesnitz!
+# Maximilian Priesnitz
 
-🎓 Schüler | 🐍 Python-Enthusiast | 📱 Lerne aktuell Swift
-
----
-
-## 🚀 Über mich
-
-Ich bin ein neugieriger Schüler mit einer großen Leidenschaft für das Programmieren – besonders mit **Python**. Ich interessiere mich für Themen wie **Simulationen**, **künstliche Intelligenz**, **Hardwaresteuerung mit Arduino** und die Entwicklung intelligenter Tools im Terminal. Aktuell lerne ich außerdem **Swift**, um Apps für Apple-Geräte zu entwickeln.
+Schüler · Python-Enthusiast · Lernender Swift-Entwickler
 
 ---
 
-## 🔧 Womit ich arbeite
+## Über mich
 
-### 🐍 Hauptsprache: **Python**
-
-- 📊 Terminal-Simulationen (wirtschaftlich, physikalisch, etc.)
-- 🔌 Arduino-Steuerung (z. B. Relais, LEDs, Sensoren)
-- 🧠 Eigene Neuronale Netze und KI-Algorithmen
-- 🌐 Webanwendungen mit Flask
-- 📁 Klare, gut strukturierte und produktionsreife Skripte
-
-### 🚀 In Arbeit: **Swift**
-
-- 📱 Grundlagen von Swift & SwiftUI
-- 👨‍💻 Ziel: Eigene iOS-Apps entwickeln
+Ich bin ein engagierter Schüler mit einer großen Leidenschaft für das Programmieren – besonders mit **Python**. Mein Fokus liegt auf der Entwicklung durchdachter, textbasierter Anwendungen, technischen Simulationen sowie der Kombination von Software mit Hardware (z. B. Arduino).  
+Derzeit vertiefe ich mein Wissen in **Swift**, um moderne und performante Apps für Apple-Plattformen zu entwickeln.
 
 ---
 
-## 🛠️ Tools & Technologien
+## Aktuelle Schwerpunkte
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+### Python
 
----
+- Entwicklung von Terminal-basierten Simulationen (wirtschaftlich, physikalisch)
+- Mikrocontroller-Steuerung (Relais, LEDs, Sensoren via Arduino)
+- Eigene Implementierungen neuronaler Netzwerke
+- Webentwicklung mit Flask
+- Fokus auf sauberen, wartbaren und produktionsfähigen Code
 
-## 📈 GitHub Stats
+### Swift (in Ausbildung)
 
-![Maximilians GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxilo92&show_icons=true&theme=tokyonight&count_private=true)
-
----
-
-## 📫 Kontakt
-
-Bei Fragen, Ideen oder Projektvorschlägen – schreib mir gern!  
-📧 E-Mail: *Priesnitz.maximlian@icloud.com*  
-🌍 Portfolio/Website: *folgt bald...*
+- Grundlagen von Swift & SwiftUI
+- Ziel: Entwicklung eigener iOS-Anwendungen
 
 ---
 
-> 🧠 *"Komplexe Systeme entstehen durch einfache Schritte – und den Mut, sie zu machen."*
+## Werkzeuge & Technologien
+
+- **Python** (Hauptsprache)
+- **Swift** (aktuell im Lernprozess)
+- **Flask** (leichte Webframeworks)
+- **Arduino** (C/C++, Hardwareanbindung)
+- **Git** (Versionsverwaltung)
+
+---
+
+## GitHub-Statistiken
+
+![Maximilians GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxilo92&show_icons=true&theme=default&count_private=true)
+
+---
+
+## Kontakt
+
+Bei Interesse an einer Zusammenarbeit oder Rückfragen:  
+E-Mail: priesnitz.maximilian@icloud.com  
+Portfolio/Website: folgt in Kürze
+
+---
+
+> "Komplexe Systeme entstehen durch einfache Schritte – und den Mut, sie zu machen."
