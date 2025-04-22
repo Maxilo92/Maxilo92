@@ -21,10 +21,10 @@ Derzeit vertiefe ich mein Wissen in **Swift**, um moderne und performante Apps f
 - Webentwicklung mit Flask
 - Fokus auf sauberen, wartbaren und produktionsfähigen Code
 
-### Swift (in Ausbildung)
+### Swift (lerne ich gerade)
 
 - Grundlagen von Swift & SwiftUI
-- Ziel: Entwicklung eigener iOS-Anwendungen
+- Ziel: Entwicklung eigener iOS/MacOS-Anwendungen
 
 ---
 
@@ -52,4 +52,4 @@ Portfolio/Website: folgt in Kürze
 
 ---
 
-> "Komplexe Systeme entstehen durch einfache Schritte – und den Mut, sie zu machen."
+> "Mein Traum - ein Job bei APPLE"
