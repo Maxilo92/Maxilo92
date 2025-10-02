@@ -6,7 +6,7 @@ Schüler · Kann Python (denke ich), Casio Basic (das sogar recht gut) · Lerne 
 
 ## Über mich
 
-Tja... Gibt nicht viel. Kann alles, aber nichts gut.
+Tja... Gibt nicht viel. Kann vieles, aber nichts gut.
 
 ---
 
