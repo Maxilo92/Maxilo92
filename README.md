@@ -1,40 +1,12 @@
 # Maximilian Priesnitz
 
-Schüler · Python-Enthusiast · Lernender Swift-Entwickler
+Schüler · Kann Python (denke ich), Casio Basic (das sogar recht gut) · Lerne Swift,C
 
 ---
 
 ## Über mich
 
-Ich bin ein engagierter Schüler mit einer großen Leidenschaft für das Programmieren – besonders mit **Python**. Mein Fokus liegt auf der Entwicklung durchdachter, textbasierter Anwendungen, technischen Simulationen sowie der Kombination von Software mit Hardware (z. B. Arduino).  
-Derzeit vertiefe ich mein Wissen in **Swift**, um moderne und performante Apps für Apple-Plattformen zu entwickeln.
-
----
-
-## Aktuelle Schwerpunkte
-
-### Python
-
-- Entwicklung von Terminal-basierten Simulationen (wirtschaftlich, physikalisch)
-- Mikrocontroller-Steuerung (Relais, LEDs, Sensoren via Arduino)
-- Eigene Implementierungen neuronaler Netzwerke
-- Webentwicklung mit Flask
-- Fokus auf sauberen, wartbaren und produktionsfähigen Code
-
-### Swift (lerne ich gerade)
-
-- Grundlagen von Swift & SwiftUI
-- Ziel: Entwicklung eigener iOS/MacOS-Anwendungen
-
----
-
-## Werkzeuge & Technologien
-
-- **Python** (Hauptsprache)
-- **Swift** (aktuell im Lernprozess)
-- **Flask** (leichte Webframeworks)
-- **Arduino** (C/C++, Hardwareanbindung)
-- **Git** (Versionsverwaltung)
+Tja... Gibt nicht viel. Kann alles, aber nichts gut.
 
 ---
 
@@ -45,11 +17,9 @@ Derzeit vertiefe ich mein Wissen in **Swift**, um moderne und performante Apps f
 ---
 
 ## Kontakt
-
-Bei Interesse an einer Zusammenarbeit oder Rückfragen:  
+ 
 E-Mail: priesnitz.maximilian@icloud.com  
-Portfolio/Website: folgt in Kürze
 
 ---
 
-> "Mein Traum - ein Job bei APPLE"
+> "Mein Ziel - eine vollständige App bauen"
