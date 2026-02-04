@@ -1,12 +1,12 @@
 # Maximilian Priesnitz
 
-Schüler · Kann Python (denke ich), Casio Basic (das sogar recht gut) · Lerne Swift,C
+Schüler · Python, Casio Basic· Lerne Swift,C++
 
 ---
 
 ## Über mich
 
-Tja... Gibt nicht viel. Kann vieles, aber nichts gut.
+Ja...
 
 ---
 
@@ -22,4 +22,4 @@ E-Mail: priesnitz.maximilian@icloud.com
 
 ---
 
-> "Mein Ziel - eine vollständige App bauen"
+> "Untertitel :)"
